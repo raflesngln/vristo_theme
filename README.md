@@ -2,25 +2,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, lone project:
+First, Clone project:
 
 ```bash
-git clone git@github.com:raflesngln/vristo_theme.git
-# or
-npm install
+    git clone git@github.com:raflesngln/vristo_theme.git
+    npm install
 ```
 
 
 Run the development server:
 ```bash
-npm run dev
+    npm run dev}
 ```
 
 
 Run the Production:
 ```bash
-npm run build
-npm run start
+    npm run build
+    npm run start
 ```
 
 Checking Typescript Debugging :
